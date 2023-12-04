@@ -1,0 +1,4 @@
+company_name,company_url,contact_url,schedule_call,file_name,assistant_id,file_id,status
+company 1,example.com,info@example.com,www.example.com/call/link,company_a.txt,,,
+company 2,fubar.com,info@fubar.com,www.fubar.com/call/link,company_b.txt,,,
+company 3,apple.com,info@apple.com,www.apple.com/call/link,company_c.txt,,,

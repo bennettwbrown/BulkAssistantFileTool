@@ -1,0 +1,5 @@
+.env
+venv/
+assistant_config.csv
+assistant_files/.DS_Store
+*.pyc
